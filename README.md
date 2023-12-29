@@ -14,6 +14,7 @@ DevOps and Cloud Engineer skilled in automating deployment processes, optimizing
 
 ### Skills
 ### Skills
+### Skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -39,6 +40,7 @@ DevOps and Cloud Engineer skilled in automating deployment processes, optimizing
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="URL_TO_JENKINS_ICON" width="36" height="36" alt="Jenkins" /></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="URL_TO_MAVEN_ICON" width="36" height="36" alt="Maven" /></a>
 </p>
+
 
 
 
