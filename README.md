@@ -5,7 +5,6 @@ DevOps/Cloud Engineer
 ---------------------
 
 DevOps and Cloud Engineer skilled in automating deployment processes, optimizing cloud infrastructure, and improving system reliability. 
-Dedicated to enhancing efficiency and fostering innovation through DevOps methodologies in intricate cloud solutions.
 
 * 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [marywangoi81@gmail.com](mailto:marywangoi81@gmail.com)
