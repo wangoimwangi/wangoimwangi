@@ -4,13 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps/Cloud Engineer
 ---------------------
 
-DevOps and Cloud Engineer skilled in automating deployment processes, optimizing cloud infrastructure, and improving system reliability. Dedicated to enhancing efficiency and fostering innovation through DevOps methodologies in intricate cloud solutions.
+DevOps and Cloud Engineer skilled in automating deployment processes, optimizing cloud infrastructure, and improving system reliability. 
+Dedicated to enhancing efficiency and fostering innovation through DevOps methodologies in intricate cloud solutions.
 
-* 🌍  I'm based in Melbourne
+* 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [marywangoi81@gmail.com](mailto:marywangoi81@gmail.com)
-* 🧠  I'm learning Kubernetes
+* 🧠  Read my Blogs https://mary-wangoi.medium.com/
 * 🤝  I'm open to collaborating on DevOps projects
-* ⚡  Currently pursuing a Master's in Software Engineering to elevate skills and stay at the forefront of industry trends.
+* ⚡  Currently working on my Certifications to elevate skills and stay at the forefront of industry trends.
 
 ### Skills
 <p align="left">
