@@ -8,7 +8,7 @@ DevOps and Cloud Engineer skilled in automating deployment processes, optimizing
 
 * 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [marywangoi81@gmail.com](mailto:marywangoi81@gmail.com)
-* 🧠  Read my Blogs https://mary-wangoi.medium.com/
+* 🧠  Read my Blogs at https://mary-wangoi.medium.com/
 * 🤝  I'm open to collaborating on DevOps projects
 * ⚡  Currently working on my Certifications to elevate skills and stay at the forefront of industry trends.
 
