@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Mary Wangoi</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS, Kubernetes, CI/CD, Docker| Jenkins, Terraform, Ansible, Prometheus</h3>
+<h3 align="center">DevOps Cloud Engineer | AWS, Kubernetes, CI/CD, Docker| Jenkins, Terraform, Ansible, Prometheus</h3>
 
 - 🔭 I’m currently working on **obtaining the industry key certifications to further validate my skills and expertise.**
 
