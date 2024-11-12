@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mary-wangoi.medium.com/](https://mary-wangoi.medium.com/)
 
-- 💬 Ask me about all things **cloud and DevOps**
+- 💬 Ask me about all things **Cloud and DevOps**
 
 - 📫 How to reach me **marywangoi81@gmail.com**
 
