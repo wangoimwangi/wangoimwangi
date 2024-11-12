@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Mary Wangoi</h1>
-<h3 align="center">DevOps Cloud Engineer | AWS, Kubernetes, CI/CD, Docker| Jenkins, Terraform, Ansible, Prometheus</h3>
+<h3 align="center">DevOps & Cloud Engineer | AWS, CI/CD, Kubernetes, Terraform, Docker | Automation & Monitoring Expert</h3>
 
 - 🌱 I’m currently learning **AIOps to enhance automation, monitoring, and incident management within DevOps.**
 
