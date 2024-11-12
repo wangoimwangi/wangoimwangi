@@ -1,4 +1,4 @@
- <h1 align="center">Hi there, I'm Mary Wangoi (Maria)</h1>
+ <h1 align="center">Hello, I'm Mary Wangoi, but you can call me Maria.</h1>
 <h3 align="center">DevOps & Cloud Engineer | AWS, CI/CD, Kubernetes, Terraform, Docker | Automation & Monitoring Expert</h3>
 
 - 🌱 I’m currently learning **AIOps to enhance automation, monitoring, and incident management within DevOps.**
