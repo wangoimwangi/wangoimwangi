@@ -1,13 +1,13 @@
  <h1 align="center">Hi 👋, I'm Mary Wangoi</h1>
 <h3 align="center">DevOps Cloud Engineer | AWS, Kubernetes, CI/CD, Docker| Jenkins, Terraform, Ansible, Prometheus</h3>
 
-- 🔭 I’m currently working on **obtaining the industry key certifications to further validate my skills and expertise.**
+- 🌱 I’m currently learning **AIOps to enhance automation, monitoring, and incident management within DevOps.**
 
-- 🌱 I’m currently learning **DevSecOps to integrate security practices into DevOps.**
+- 🔭 I’m currently working on **key industry certifications to validate and enhance my expertise.**
 
 - 👨‍💻 All of my projects are available at [https://mary-wangoi.medium.com/](https://mary-wangoi.medium.com/)
 
-- 💬 Ask me about **DevOps and Cloud.**
+- 💬 Ask me about all things **cloud and DevOps**
 
 - 📫 How to reach me **marywangoi81@gmail.com**
 
