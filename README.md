@@ -1,9 +1,9 @@
  <h1 align="center">Hello, I'm Mary Wangoi, but you can call me Maria.</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS, CI/CD, Kubernetes, Terraform, Docker | Automation & Monitoring Expert</h3>
+<h3 align="center">DevOps & Cloud Engineer|AWS, Kubernetes, Terraform, CI/CD, Docker|Automation, Monitoring, & Infrastructure Optimization</h3>
 
-- 🌱 I’m currently learning **AIOps to enhance automation, monitoring, and incident management within DevOps.**
+- 🌱 Currently, I’m exploring **AIOps and MLOps to enhance automation, intelligent monitoring, and incident management within the DevOps ecosystem.**
 
-- 🔭 I’m currently working on **key industry certifications to validate and enhance my expertise.**
+- 🔭 I contribute to the tech community through technical articles on Medium, where I share insights on DevOps best practices, cloud technologies, and automation techniques.
 
 - 👨‍💻 All of my projects are available at [https://mary-wangoi.medium.com/](https://mary-wangoi.medium.com/)
 
