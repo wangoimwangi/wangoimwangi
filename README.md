@@ -3,7 +3,7 @@
 
 - 🌱 I’m exploring **AIOps and MLOps** to enhance automation, intelligent monitoring, and incident management within the DevOps ecosystem.
 
-- 🔭 I contribute to the tech community through technical articles on Medium, sharing insights on DevOps, cloud, and automation insights.
+- 🔭 I contribute to the tech community through technical articles on Medium, sharing insights on DevOps, cloud, and automation.
 
 - 👨‍💻 All of my projects are available at [https://mary-wangoi.medium.com/](https://mary-wangoi.medium.com/)
 
