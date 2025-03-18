@@ -1,5 +1,5 @@
  <h1 align="center">Hello, I'm Mary Wangoi Mwangi (Maria)</h1>
-<h3 align="center">DevOps Engineer | Expert in CI/CD, Kubernetes, AWS & Terraform | Driving Automation for Scalability & Reliability</h3>
+<h3 align="center">DevOps Engineer | CI/CD, Kubernetes, AWS & Terraform Specialist | Automating for Scalability, Reliability & Efficiency</h3>
 
 - 🌱 I’m exploring **AIOps and MLOps** to enhance automation, intelligent monitoring, & incident management within DevOps.
 
